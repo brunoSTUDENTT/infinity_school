@@ -1,32 +1,34 @@
-# infinity_school
-Infinity School
+# Infinity School
 Trabalhos realizados durante curso de Data Science na Infinity School
 
-Grade do curso
+## Grade do curso 
 
-Lógica de Programação em Python
- Conceitos e Princípios de programação
+1. *Lógica de Programação em Python*
+- [x] Conceitos e Princípios de programação
 
-Estruturas Condicionais
- If
- Elif
- Else
-Estrutura de Repetição
- While
- For
-Linguagem Python
- Funções
- Listas, Tuplas, Dicionários
- Orientação a Objetos
- Encapsulamento
- Associação
- Herança
- Polimorfismo
- Banco de dados
- Manipulação e dados
- Views
- Python x Banco
- Python x MVC
- MVC
-Data Science
- Introdução ao Pandas: Indexação, seleção e atribuição
+   1. *Estruturas Condicionais*
+  - [x] If
+  - [x] Elif
+  - [x] Else
+
+   2. *Estrutura de Repetição*
+  - [x] While
+  - [x] For
+
+2. *Linguagem Python*
+- [x] Funções
+- [x] Listas, Tuplas, Dicionários
+- [x] Orientação a Objetos
+- [x] Encapsulamento
+- [x] Associação
+- [x] Herança
+- [x] Polimorfismo
+- [x] Banco de dados
+- [x] Manipulação e dados
+- [x] Views
+- [x] Python x Banco
+- [x] Python x MVC
+- [x] MVC
+
+3. *Data Science*
+- [x] Introdução ao Pandas: Indexação, seleção e atribuição
