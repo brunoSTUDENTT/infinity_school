@@ -1,0 +1,17 @@
+'''Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50, a soma entre impares e
+ o numero de impares'''
+ 
+num = 50
+soma_impar = 0
+qtd_impar = 0
+
+for i in range(1, 51):
+    if i % 2 != 0:
+        print(numeros impares: ,i, end=" ")
+        soma_impar += i
+        qtd_impar += 1
+
+print("\n",qtd_impar)
+print(soma_impar)
+ 
+ 
